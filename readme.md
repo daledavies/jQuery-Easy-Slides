@@ -3,7 +3,7 @@ jQuery Easy Slides v1.1
 
 Possibly the easiest to use jQuery plugin for making slideshows!
 
-Demo:  http://dev.daledavies.co.uk/easyslides
+Demo:  http://daledavies.github.io/jQuery-Easy-Slides/
 
 
 Purpose
