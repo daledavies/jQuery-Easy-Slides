@@ -3,10 +3,11 @@ jQuery Easy Slides v1.1
 
 Possibly the easiest to use jQuery plugin for making slideshows!
 
+Demo:  http://dev.daledavies.co.uk/easyslides
+
+
 Purpose
 -------
-
-A friend of mine who is currently beginning his journey into the world of jQuery asked me how I would go about making an image slideshow. So as I began trying to explain, I realised I could actually just make him a simple plugin. Well, here it is!
 
 Although there are plenty of features to make this more than just a basic slideshow plugin, the list of features (and options) are not extensive. With jQuery Easy Slides I wanted to make a simple slideshow plugin that is quick and easy to use.
 
@@ -111,7 +112,7 @@ Examples
 
 ###Example No. 1
 
-The first example of Easy Slides in action can be seen at the top of this page, to get this to work I used a block of Javascript almost identical to the one shown above (apart from to change the captions). After after unzipping the Easy Slides archive you can find this example in the "Examples/Example 1/" folder.
+The first example of Easy Slides in action can be seen at the top of the demo page, to get this to work I used a block of Javascript almost identical to the one shown above (apart from to change the captions). After after unzipping the Easy Slides archive you can find this example in the "Examples/Example 1/" folder.
 
 The following is the css required to create Example 1...
 
